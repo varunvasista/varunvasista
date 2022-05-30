@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/cryptonewt" target="blank"><img src="https://img.shields.io/twitter/follow/cryptonewt?logo=twitter&style=for-the-badge" alt="cryptonewt" /></a> </p>
 
 - 🔭 I’m currently working on [Payc](www.payc.io)
+- 🔭 I’m currently working as CTO at [World Of Professionals Philippines & Thailand](www.worldofprofessionals.com)
 
 - 🌱 I’m currently learning **many new technologies**
 
