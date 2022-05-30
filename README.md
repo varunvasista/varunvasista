@@ -2,11 +2,11 @@
         <img src="GitHub.png" height="200"/>
     </div>
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Varun+Vasista+Kusuma;Bitcoin+Core+Developer;CEO+@payc;CTO+@worldofprofessionals;Blockchain+Developer"/>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Varun+Vasista+Kusuma;Bitcoin+Core+Developer;Blockchain+Developer"/>
     </div>
     <div align="center">
         <a href="https://www.linkedin.com/in/varunvasistakusuma/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>
-        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
+        <a href="https://stackoverflow.com/users/3101768/varun-vasista-kusuma"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
         <a href="https://t.me/varunvashista"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram"/></a>
     </div>
 
